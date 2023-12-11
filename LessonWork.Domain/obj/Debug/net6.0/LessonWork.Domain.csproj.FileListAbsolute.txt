@@ -1,0 +1,11 @@
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\bin\Debug\net6.0\LessonWork.Domain.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\bin\Debug\net6.0\LessonWork.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\bin\Debug\net6.0\LessonWork.Domain.pdb
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\LessonWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\LessonWork.Domain.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\LessonWork.Domain.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\LessonWork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\LessonWork.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\refint\LessonWork.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\LessonWork.Domain.pdb
+C:\Users\seidb\OneDrive\Masaüstü\LessonWork\LessonWork\LessonWork.Domain\obj\Debug\net6.0\ref\LessonWork.Domain.dll

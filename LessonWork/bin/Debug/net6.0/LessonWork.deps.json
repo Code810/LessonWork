@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LessonWork/1.0.0": {
+        "dependencies": {
+          "LessonWork.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LessonWork.dll": {}
+        }
+      },
+      "LessonWork.Domain/1.0.0": {
+        "runtime": {
+          "LessonWork.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LessonWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LessonWork.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
